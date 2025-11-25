@@ -1,0 +1,65 @@
+2025-11-12T16:28:13.776Z [error]: 400 - Bad Request
+2025-11-12T16:28:13.863Z [error]: 400 - Validation failed
+2025-11-12T20:06:53.074Z [info]: Employee created successfully
+2025-11-12T20:40:09.638Z [error]: 400 - Bad Request
+2025-11-12T20:40:09.682Z [error]: 400 - Validation failed
+2025-11-12T20:42:15.927Z [error]: 400 - Bad Request
+2025-11-12T20:42:15.967Z [error]: 400 - Validation failed
+2025-11-12T20:59:49.522Z [error]: 400 - Bad Request
+2025-11-12T20:59:49.588Z [error]: 400 - Validation failed
+2025-11-12T21:03:34.008Z [error]: 400 - Bad Request
+2025-11-12T21:03:34.051Z [error]: 400 - Validation failed
+2025-11-12T21:04:33.765Z [error]: 400 - Bad Request
+2025-11-12T21:04:33.798Z [error]: 400 - Validation failed
+2025-11-12T21:05:47.380Z [error]: 400 - Bad Request
+2025-11-12T21:05:47.438Z [error]: 400 - Validation failed
+2025-11-12T21:09:13.258Z [error]: 400 - Bad Request
+2025-11-12T21:09:13.320Z [error]: 400 - Validation failed
+2025-11-12T21:35:36.599Z [info]: Employee created successfully
+2025-11-13T18:07:21.613Z [error]: Failed to fetch Employee
+2025-11-13T19:29:18.705Z [info]: Employee successfully deleted
+2025-11-13T21:22:32.252Z [info]: Employee created successfully
+2025-11-13T21:23:28.290Z [info]: Employee updated
+2025-11-13T21:23:37.631Z [info]: Employee updated
+2025-11-13T21:23:44.379Z [info]: Employee updated
+2025-11-13T21:23:52.191Z [info]: Employee updated
+2025-11-13T21:25:08.436Z [info]: Employee successfully deleted
+2025-11-13T21:50:19.552Z [info]: Employee updated
+2025-11-14T16:18:23.529Z [info]: Employee updated
+2025-11-14T16:18:39.758Z [info]: Employee updated
+2025-11-14T16:58:13.528Z [info]: Employee updated
+2025-11-14T17:17:22.439Z [info]: Employee created successfully
+2025-11-14T17:18:38.603Z [info]: Employee created successfully
+2025-11-14T17:37:56.229Z [info]: Employee created successfully
+2025-11-14T21:03:17.159Z [info]: Employee created successfully
+2025-11-14T21:05:33.672Z [info]: Employee created successfully
+2025-11-14T21:07:05.462Z [info]: Employee created successfully
+2025-11-14T21:07:28.620Z [info]: Employee created successfully
+2025-11-14T21:08:54.795Z [info]: Employee created successfully
+2025-11-14T21:09:28.555Z [info]: Employee created successfully
+2025-11-14T21:11:38.860Z [info]: Employee created successfully
+2025-11-14T21:30:05.451Z [info]: Employee created successfully
+2025-11-14T21:30:49.485Z [info]: Employee created successfully
+2025-11-14T21:57:11.726Z [info]: Employee created successfully
+2025-11-14T22:03:15.609Z [info]: Employee created successfully
+2025-11-14T22:03:42.683Z [info]: Employee created successfully
+2025-11-14T22:09:28.462Z [info]: Employee created successfully
+2025-11-15T14:40:22.640Z [info]: Employee updated
+2025-11-15T14:40:33.291Z [info]: Employee successfully deleted
+2025-11-15T19:00:04.720Z [info]: Employee updated
+2025-11-15T19:04:37.785Z [info]: Employee created successfully
+2025-11-15T19:07:03.358Z [info]: Employee created successfully Employee with name "Veerender Voskula" already exists!
+2025-11-15T19:07:17.108Z [info]: Employee created successfully Employee with name "Veerender Voskula" already exists!
+2025-11-15T19:08:17.872Z [info]: Employee created successfully Employee with name "Veerender Voskula" already exists!
+2025-11-15T19:39:33.937Z [error]: 409 - Employee with name "Veerender Voskula" already exists!
+2025-11-15T19:40:27.079Z [error]: 409 - Employee with name "Veerender Voskula" already exists!
+2025-11-15T19:42:41.281Z [error]: 409 - Employee with name "Veerender Voskula" already exists!
+2025-11-15T19:43:14.447Z [error]: 500 - Class constructor ValidationError cannot be invoked without 'new'
+2025-11-15T19:45:21.937Z [error]: 400 - Validation failed
+2025-11-15T19:48:40.870Z [error]: 400 - Validation failed
+2025-11-15T19:49:36.037Z [error]: 400 - Validation failed
+2025-11-15T20:26:14.783Z [error]: 400 - Validation failed
+2025-11-15T20:26:21.189Z [error]: 400 - Validation failed
+2025-11-15T20:26:59.157Z [error]: 400 - Validation failed
+2025-11-15T20:29:50.191Z [error]: 400 - Validation failed
+2025-11-15T20:31:07.959Z [error]: 400 - Validation failed
